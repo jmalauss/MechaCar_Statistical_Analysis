@@ -28,10 +28,10 @@ pounds per square inch.*
 Lot 3 does not meet the design specification of the variance of the suspension being less than or equal to 100 pounds per square inch. The variance for Lot 3 is about 170.
 
 ## T-Tests on Suspension Coils
-briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+#### Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
 ## Study Design: MechaCar vs Competition (use the stats cheat sheet)
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+#### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
 What metric or metrics are you going to test?
 What is the null hypothesis or alternative hypothesis?

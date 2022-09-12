@@ -32,3 +32,15 @@ A metric to be tested is mentioned (5 pt)
 A null hypothesis or an alternative hypothesis is described (5 pt)
 A statistical test is described to test the hypothesis (5 pt)
 The data for the statistical test is described (5 pt)
+
+
+
+
+Pictures:
+
+![total_summary](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/total_summary.png)
+![lot_summary](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/lot_summary.png)
+![All Lots vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lots_vs_Population.png)
+![Lot 1 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot1_vs_pop.png)
+![Lot 2 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot2_vs_pop.png)
+![Lot 3 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot3_vs_pop.png)

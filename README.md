@@ -6,7 +6,7 @@
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-
+The two variables that provided a non-random amount of variance were vehicle_length and the ground_clearance. Because of their p-values...
 
 - Is the slope of the linear model considered to be zero? Why or why not?
 

@@ -30,6 +30,11 @@ Lot 3 does not meet the design specification of the variance of the suspension b
 ## T-Tests on Suspension Coils
 #### Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
+![All Lots vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lots_vs_Population.png)
+![Lot 1 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot1_vs_pop.png)
+![Lot 2 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot2_vs_pop.png)
+![Lot 3 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot3_vs_pop.png)
+
 ## Study Design: MechaCar vs Competition (use the stats cheat sheet)
 #### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
@@ -47,11 +52,4 @@ The data for the statistical test is described (5 pt)
 
 
 
-Pictures:
 
-
-
-![All Lots vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lots_vs_Population.png)
-![Lot 1 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot1_vs_pop.png)
-![Lot 2 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot2_vs_pop.png)
-![Lot 3 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot3_vs_pop.png)

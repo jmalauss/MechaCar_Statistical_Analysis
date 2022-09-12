@@ -6,10 +6,15 @@
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-After performing the Linear Regression on the data, it is clear that vehicle_weight will be the best predictor of mpg based on the p-value of 0.0656. In other words, is it likely that change in mpg is due to change in vehicle_weight, and not due to chance.
+
 
 - Is the slope of the linear model considered to be zero? Why or why not?
+
+The slope of the linear model is not considered to be zero. The "Estimate" column in the output displays slopes that (if plotted) will display a line of best fit for each independent variable.
+
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+The linear model is an effective predictor of prototypes. The p-value for ground_clearance was 5.77e-08, which converts to 0.0000000577. In other words, a p-value of 0.0001 means the probability of being wrong is 1 in 10,000. Therefor, ground_clearance is a variable that we can use to make predictions mpg. Although vehicle_weight has a p-value > 0.05, we can still consider it when making predictions about mpg - there is just a better chance that we are incorrect in our predictions.
 
 ## Summary Statistics on Suspension Coils
 

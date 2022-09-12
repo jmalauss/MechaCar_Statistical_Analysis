@@ -4,9 +4,12 @@
 
 ![Linear Model](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/linear_model.png)
 
--Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
--Is the slope of the linear model considered to be zero? Why or why not?
--Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
+After performing the Linear Regression on the data, it is clear that vehicle_weight will be the best predictor of mpg based on the p-value of 0.0656. In other words, is it likely that change in mpg is due to change in vehicle_weight, and not due to chance.
+
+- Is the slope of the linear model considered to be zero? Why or why not?
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ## Summary Statistics on Suspension Coils
 

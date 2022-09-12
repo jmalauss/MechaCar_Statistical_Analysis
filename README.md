@@ -38,6 +38,7 @@ The data for the statistical test is described (5 pt)
 
 Pictures:
 
+![Linear Model](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/linear_model.png)
 ![total_summary](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/total_summary.png)
 ![lot_summary](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/lot_summary.png)
 ![All Lots vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lots_vs_Population.png)

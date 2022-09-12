@@ -2,11 +2,11 @@
 
 ## Linear Regression to Predict MPG
 
-Write a short summary using a screenshot of the output from the linear regression, and address the following questions:
+![Linear Model](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/linear_model.png)
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-Is the slope of the linear model considered to be zero? Why or why not?
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+-Is the slope of the linear model considered to be zero? Why or why not?
+-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ## Summary Statistics on Suspension Coils
 
@@ -38,7 +38,7 @@ The data for the statistical test is described (5 pt)
 
 Pictures:
 
-![Linear Model](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/linear_model.png)
+
 ![total_summary](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/total_summary.png)
 ![lot_summary](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/lot_summary.png)
 ![All Lots vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lots_vs_Population.png)

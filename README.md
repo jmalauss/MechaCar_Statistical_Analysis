@@ -30,9 +30,13 @@ Lot 3 does not meet the design specification of the variance of the suspension b
 ## T-Tests on Suspension Coils
 #### Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
+1. All Manufacturing Lots vs. Population (Mean = 1500)
 ![All Lots vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lots_vs_Population.png)
+2. Lot 1 vs. Population
 ![Lot 1 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot1_vs_pop.png)
+3. Lot 2 vs. Population
 ![Lot 2 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot2_vs_pop.png)
+4. Lot 3 vs. Population
 ![Lot 3 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot3_vs_pop.png)
 
 ## Study Design: MechaCar vs Competition (use the stats cheat sheet)
@@ -48,8 +52,3 @@ A metric to be tested is mentioned (5 pt)
 A null hypothesis or an alternative hypothesis is described (5 pt)
 A statistical test is described to test the hypothesis (5 pt)
 The data for the statistical test is described (5 pt)
-
-
-
-
-

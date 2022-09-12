@@ -25,7 +25,7 @@ The linear model is an effective predictor of prototypes. In other words, when d
 *The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 
 pounds per square inch.*
 
-Lot 3 does not meet the design specification of the variance of the suspension being less than or equal to 100 pounds per square inch. The variance for Lot 3 is about 170.
+Lot 3 does not meet the design specification of the variance of the suspension being less than or equal to 100 pounds per square inch. The variance for Lot 3 is about 170. Across all manufacturing lots, the variance is within compliance of the design specifications.
 
 ## T-Tests on Suspension Coils
 #### Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.

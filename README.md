@@ -53,9 +53,10 @@ The mean for Lot 3 is 1496.14. There is a significant difference between the mea
 ## Study Design: MechaCar vs Competition
 #### *Write a short description of a statistical study that can quantify how the MechaCar performs against the competition.*
 
-What metric or metrics are you going to test? - For this research study, I would like to understand the relationship between safety rating and cost.
+**What metric or metrics are you going to test?** - For this research study, I would like to understand the relationship between safety rating and cost.
 
-What is the null hypothesis or alternative hypothesis? - Null: If a car does not have a high safety rating, then it will not be expensive. Alternative: If a car has a high safety rating, then the price will be more expensive.
+**What is the null hypothesis or alternative hypothesis?** - Null: If a car does not have a high safety rating, then it will not be expensive. Alternative: If a car has a high safety rating, then the price will be more expensive.
 
-What statistical test would you use to test the hypothesis? And why? - I would use a Linear Regression to see if each x-value (safety rating) is related to each y-value (price). We can produce a line of best fit to understand what happens to price as safety ratings increase.
-What data is needed to run the statistical test? - We would need safety rating data and price data for cars.
+**What statistical test would you use to test the hypothesis? And why?** - I would use a Linear Regression to see if each x-value (safety rating) is related to each y-value (price). We can produce a line of best fit to understand what happens to price as safety ratings increase.
+
+**What data is needed to run the statistical test?** - We would need safety rating data and price data for cars.

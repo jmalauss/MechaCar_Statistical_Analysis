@@ -50,8 +50,8 @@ The mean for Lot 2 is 1500.2 The p-value of 0.6072 indicates no significant diff
 
 The mean for Lot 3 is 1496.14. There is a significant difference between the mean of Lot 3 and the population mean. The p-value is 0.04168 which is less than 0.05. 
 
-## Study Design: MechaCar vs Competition (use the stats cheat sheet)
-#### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+## Study Design: MechaCar vs Competition
+#### *Write a short description of a statistical study that can quantify how the MechaCar performs against the competition.*
 
 What metric or metrics are you going to test? - For this research study, I would like to understand the relationship between safety rating and cost.
 

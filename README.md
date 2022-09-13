@@ -30,14 +30,25 @@ Lot 3 does not meet the design specification of the variance of the suspension b
 ## T-Tests on Suspension Coils
 #### Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
-1. All Manufacturing Lots vs. Population (Mean = 1500)
+1. All Manufacturing Lots vs. Population (Population Mean = 1500)
 ![All Lots vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lots_vs_Population.png)
+
+The mean across all Manufacturing Lots is 1498.78. The p-value of 0.4533 indicates that there is not a significant difference between all Manufacturing Lot means and the Population mean.
+
 2. Lot 1 vs. Population
 ![Lot 1 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot1_vs_pop.png)
+
+The mean for Lot 1 is 1500. There is no difference between Lot 1 and the population mean as indicated by the p-value of 1.
+
 3. Lot 2 vs. Population
 ![Lot 2 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot2_vs_pop.png)
+
+The mean for Lot 2 is 1500.2 The p-value of 0.6072 indicates no significant difference between Lot 2 and the population mean of 1500.
+
 4. Lot 3 vs. Population
 ![Lot 3 vs Pop](https://github.com/jmalauss/MechaCar_Statistical_Analysis/blob/main/Pictures/Lot3_vs_pop.png)
+
+The mean for Lot 3 is 1496.14. There is a significant difference between the mean of Lot 3 and the population mean. The p-value is 0.04168 which is less than 0.05. 
 
 ## Study Design: MechaCar vs Competition (use the stats cheat sheet)
 #### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
